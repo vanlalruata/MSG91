@@ -1,0 +1,21 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="MSG91.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="APIKey" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="Theme" Type="System.String" Scope="User">
+      <Value Profile="(Default)">iMaginary</Value>
+    </Setting>
+    <Setting Name="ShowChar" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="mySize" Type="System.Drawing.Size" Scope="User">
+      <Value Profile="(Default)">871, 552</Value>
+    </Setting>
+    <Setting Name="myLocation" Type="System.Drawing.Point" Scope="User">
+      <Value Profile="(Default)">10, 10</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
